@@ -11,20 +11,20 @@ This project uses multiple machine learning models to predict student academic p
 ```bash
 pip install pandas seaborn matplotlib scikit-learn numpy
 
-# Clone the Repository
+Clone the Repository
 git clone https://github.com/yourusername/StudentPerformancePrediction-ML.git
 cd StudentPerformancePrediction-ML
 
-## Prepare the Dataset
+Prepare the Dataset
 Ensure your CSV file is named Student-Data.csv and placed in the same directory as Project.py.
 
-# Setup & Init
+Setup & Init
 git config --global user.name "Your Name"
 git config --global user.email "you@example.com"
 git config --global color.ui auto
 
-## 📊 DATA VISUALIZATION OPTIONS
-# Run the program and select from the following graphs:
+📊 DATA VISUALIZATION OPTIONS
+Run the program and select from the following graphs:
 
 | Option | Description       |
 | ------ | ----------------- |
@@ -39,7 +39,7 @@ git config --global color.ui auto
 | 9      | Class vs Absence  |
 | 10     | Skip Graphs       |
 
-# 🧠 ML MODELS USED
+🧠 ML MODELS USED
 The following classifiers are used and compared:
 
 | Classifier           | Description                         |
